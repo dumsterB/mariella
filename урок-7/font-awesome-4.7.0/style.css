@@ -1,0 +1,82 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Tiro Gurmukhi', serif;
+}
+
+
+.card {
+    height: 400px;
+    position: absolute;
+    top: 20%;
+    left: 80px;
+}
+
+.row {
+    position: relative;
+}
+
+.header-content {
+    background: linear-gradient(to top, #D6BBD3, #B08EAD)
+}
+
+.h1{
+    top: 20px;
+    margin-left: 20px;
+    padding-top: 80px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.text2{
+    text-align: center;
+}
+
+.card{
+display: flex;
+}
+
+.text-3{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.text-5{
+    margin-top: 20px;
+}
+
+.carousel-inner{
+    padding-top: 30px;
+}
+
+.paragra{
+    margin-top: 40px;
+}
+
+
+.container1{
+    margin-bottom: 50px;
+    padding-top: 80px;
+}
+
+.container2{
+    margin-bottom: 50px
+}
+
+.textt{
+    text-align: center;
+}
+
+.texttt{
+    margin-left: 200px;
+}
+
+.texttt1{
+    margin-left: 200px;
+}
+
+.h5{
+    margin-right: 200px;
+}
